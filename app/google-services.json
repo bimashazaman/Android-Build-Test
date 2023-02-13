@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "442761370789",
+    "project_id": "quixotic-galaxy-317211",
+    "storage_bucket": "quixotic-galaxy-317211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442761370789:android:7aaf24e480f85cc4fec14c",
+        "android_client_info": {
+          "package_name": "com.poker.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442761370789-0f078d7o6qte658iqfg113n9k7lh0os0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.poker.social",
+            "certificate_hash": "7d5582e9b1f06d28657a193240b3e5571f859b19"
+          }
+        },
+        {
+          "client_id": "442761370789-g646kahl6co2mo3651dbkt14t87coic5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.poker.social",
+            "certificate_hash": "d2c8831462d33b40a62fb7ff3645ac9f3bfcfba4"
+          }
+        },
+        {
+          "client_id": "442761370789-gpiem129dvprm333sqsmmjomp7qgphhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbtk-QRswgbzfeMATCW5Pavo84Be4q4rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442761370789-gpiem129dvprm333sqsmmjomp7qgphhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
